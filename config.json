@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokeneonnect",
+        "uuid": 9773864,
+        "checksum": "ybgx3a"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
